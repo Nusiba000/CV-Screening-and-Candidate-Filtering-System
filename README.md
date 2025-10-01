@@ -8,3 +8,4 @@ This project is a resume (CV) screening and candidate filtering platform that au
 - Standardize candidate evaluation: Use a transparent, deterministic scoring model to ensure fairness and consistency.
 - Scale with volume: Handle batch uploads (50+ CVs at a time) reliably.
 - Support HR decision-making: Provide explainable results with clear breakdown of matched vs. missing skills.
+
