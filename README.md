@@ -1,5 +1,3 @@
-# CV-Screening-and-Candidate-Filtering-System
-
 # 🧠 CV Screening & Candidate Filtering System
 
 An **AI-powered resume screening platform** that automates the first stage of recruitment — extracting, evaluating, and ranking candidate CVs with speed and precision.  
