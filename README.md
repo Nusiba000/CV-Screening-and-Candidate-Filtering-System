@@ -79,7 +79,7 @@ This removes repetitive manual screening and ensures **standardized, fair, and e
 
 The following **Entity–Relationship Diagram (ERD)** illustrates the structure and relationships between core tables in the CV Screening & Candidate Filtering System.
 
-
+![alt text](doc/erd.png)
 
 ---
 
