@@ -71,7 +71,7 @@ This removes repetitive manual screening and ensures **standardized, fair, and e
 | 🖼 Frontend          | HTML5, Tailwind CSS, TypeScript (ES6+)        | Lightweight, responsive UI |
 | 📄 Data Extraction   | PDF.js, RegEx, heuristic parsing              | Fast, client-side OCR/NLP simulation |
 | 🗃 Database          | SQL (SQLite / PostgreSQL)                     | Structured storage for analytics |
-| 🔐 Authentication   | Subbase (Custom/Anonymous)                   | Secure, user-scoped access |
+| 🔐 Authentication   | Supbase (Custom/Anonymous)                   | Secure, user-scoped access |
 
 ---
 
